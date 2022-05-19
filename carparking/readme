@@ -1,1 +1,8 @@
 objectives
+write a FSM for the problem mentioned below and implement the the roblem.
+problem statement
+in the entrance of the car parking system there is a sensor which is activated to detect a vehicle coming.
+once the sensor is triggered,a password is requested to open the gate
+if the enetered password is correct, the gate would open to let the vehicle get in.
+otherwise, the gate is still locked.
+if the current car is getting in the car park being detected by the exit sensor and another tye car comes, the door will b locked and requires the coming car to enter the password.
