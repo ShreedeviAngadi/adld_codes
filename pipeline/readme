@@ -1,1 +1,7 @@
 objectives
+considering the example of 3-stage pipeline
+four N-bit unsigned integer F as output.
+the following computations are carried out in the stages
+a) S1:X1=A+B;X2=C-D;
+b) S2: X3=X1+X2;
+c) S3; F=X3*D;
