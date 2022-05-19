@@ -1,1 +1,4 @@
-objkectives
+objectives
+design of 32-bit Reduced intruction set architecture processor.
+using five-stage pipelne(fetch,decode,execution,memory access,register write back).
+it is a verilog design of five-stage pipeline.
