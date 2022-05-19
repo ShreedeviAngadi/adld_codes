@@ -1,3 +1,4 @@
 objectives
 greatest common divisor by repeated substraction.
 considering two numbers and finding gcd b repeated substraction.
+datapath and controller, test_bench model.
