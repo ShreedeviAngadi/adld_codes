@@ -1,1 +1,7 @@
 objectives
+consider a ppeline that carries out the following stage-wise operations.
+inputs:three register address(rs1,rs2,rd)an ALU function(func) and a memory address(addr).
+S1: read two 16-bit numbers from the registers specified b "rs1"&"rs2" and store them in A&B.
+S2: perform an ALU operation on A&B specified by "func" and store it in "Z".
+S3: write the value of "Z" in the register specified "rd"".
+S4:also write the value of "Z" in memory location "addr".
